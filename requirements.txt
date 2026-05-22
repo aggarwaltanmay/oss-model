@@ -1,0 +1,15 @@
+streamlit
+huggingface_hub
+google-genai
+pandas
+python-dotenv
+tabulate
+transformers
+torch
+duckduckgo-search
+opentelemetry-sdk
+prometheus-client
+faiss-cpu
+fastapi
+uvicorn
+pydantic
