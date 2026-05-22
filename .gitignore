@@ -1,6 +1,5 @@
-node_modules/
-.env
-.venv
+venv/
+.DS_Store
 __pycache__/
 .DS_Store
-*.log
+__pycache__/
